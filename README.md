@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @CodeLychee
+- 👀 I’m interested in programming langauges
+- 🌱 I’m currently learning C programming as I'm a beginner
+- 📫 My Twitter id - @CodeLychee
+
+<!---
+CodeLychee/CodeLychee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
